@@ -1,6 +1,6 @@
 # Amazon-Sentiment-Analyzer
 
-![Picture](https://github.com/Olailemi/Python_Diabetes-Prediction/assets/151401829/e9ba646a-760a-4058-b104-ba3a1dcb9ab7)
+!"C:\Users\hp\Desktop\Olailemi Portfolio\html5up-solid-state\images\Sentiment.png"
 
 ## Introduction:
 
@@ -17,12 +17,12 @@ Jupyter Notebook was employed for the initial stages of the project, including d
 #### Importing Libraries:
 
 The following libraries were imported to facilitate data manipulation, visualization, and model training:
---	Pandas: For data manipulation and analysis.
---	NumPy: For numerical operations.
---	Matplotlib and Seaborn: For data visualization.
---	TextBlob: For sentiment analysis.
---	Scikit-learn: For machine learning model implementation.
---	Joblib: For saving the trained model.
+-	Pandas: For data manipulation and analysis.
+-	NumPy: For numerical operations.
+-	Matplotlib and Seaborn: For data visualization.
+-	TextBlob: For sentiment analysis.
+-	Scikit-learn: For machine learning model implementation.
+-	Joblib: For saving the trained model.
 
 #### Making a copy of the Data:
 
