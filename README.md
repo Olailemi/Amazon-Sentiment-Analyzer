@@ -1,6 +1,6 @@
 # Amazon-Sentiment-Analyzer
 
-![https://github.com/Olailemi/Amazon-Sentiment-Analyzer/blob/main/Sentiment.png]
+![Sentiment](https://github.com/Olailemi/Amazon-Sentiment-Analyzer/blob/main/Sentiment.png)
 
 ## Introduction:
 
