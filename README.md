@@ -1,6 +1,6 @@
 # Amazon-Sentiment-Analyzer
 
-!"C:\Users\hp\Desktop\Olailemi Portfolio\html5up-solid-state\images\Sentiment.png"
+!["C:\Users\hp\Desktop\Olailemi Portfolio\html5up-solid-state\images\Sentiment.png"]
 
 ## Introduction:
 
